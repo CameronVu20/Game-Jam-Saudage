@@ -1,2 +1,2 @@
 # Game-Jam-Saudage
-Game Jam game created using p5.js. Created for reference for my students to help them learn
+This was created using p5.js as a reference for my students at GWC. This was inspired by the word Saudage in Portuguese. There is no direct translation to English, but it is similar to melacholy and nostolgia. It follows the story of the Main character who is going through the 5 stages of grieve. I only completed the denial and half of anger. I drew all of the assets and they are all uploaded, so please check out the drawings not yet included in the code. This is a WIP.
